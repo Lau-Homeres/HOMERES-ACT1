@@ -1,3 +1,3 @@
-onsole.log ("Hello World");
+console.log ("Hello World");
 let name = "Lurence Homerez"
-console.log ("My name is" +  name);c
+console.log ("My name is" +  name);
